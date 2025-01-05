@@ -102,7 +102,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 
 ## ✍️ Autor
 
-[TeamLabStudios]
+TeamLabStudios
 - GitHub: [@TeamLabStudios](https://github.com/TeamLabStudios)
 
 
