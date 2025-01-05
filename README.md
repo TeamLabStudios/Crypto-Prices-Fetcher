@@ -102,9 +102,9 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 
 ## ✍️ Autor
 
-[Tu Nombre]
-- GitHub: [@tuusuario](https://github.com/TeamLabStudios)
-- Email: tu@email.com
+[TeamLabStudios]
+- GitHub: [@TeamLabStudios](https://github.com/TeamLabStudios)
+
 
 ## 🙏 Agradecimientos
 
